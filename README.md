@@ -41,7 +41,7 @@ Digite sua escolha:
 ## How to Run
 
 ```bash
-git clone https://github.com/your-username/nepswiki.git](https://github.com/maaluuzete/NepsWiki-An-Article-Network-Analyzer-via-CLI.git
+git clone https://github.com/maaluuzete/NepsWiki-An-Article-Network-Analyzer-via-CLI.git
 cd NepsWiki-An-Article-Network-Analyzer-via-CLI
 python -m venv venv
 python main.py
